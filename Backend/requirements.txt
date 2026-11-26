@@ -1,0 +1,9 @@
+Flask
+flask-bcrypt 
+pyjwt 
+flask-jwt-extended
+flask_mail
+flask_cors
+celery
+redis
+flask_caching
