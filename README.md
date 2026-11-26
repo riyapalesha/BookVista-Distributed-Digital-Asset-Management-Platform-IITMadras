@@ -1,4 +1,4 @@
-# BookVista: Library Management System
+# BookVista: Distributed Digital Asset Management Platform
 
 BookVista is a full-stack web application designed to facilitate the management and distribution of e-books across various sections of an online library. The system offers a seamless experience for both users and administrators to issue, return, and manage digital resources.
 
@@ -30,7 +30,7 @@ Since this repository combines both the backend and frontend into a single proje
 Open a terminal window and navigate to the `backend/` directory:
 
 ```bash
-cd Library-Management-System-backend
+cd Backend
 
 ```
 
@@ -105,7 +105,7 @@ python3 main.py
 Open a separate terminal window and navigate to the `frontend/` directory:
 
 ```bash
-cd Library-Management-System-frontend
+cd Frontend
 
 ```
 
